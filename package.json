@@ -1,0 +1,17 @@
+{
+  "name": "creatures",
+  "version": "0.1.0",
+  "description": "Criaturas originais que pertencem aos lugares do mundo. v1: o Espreitador do Musgo, um caçador de emboscada das florestas que se disfarça de monte de musgo, salta sobre quem chega perto e morde. Arte, animações e sons gerados por código.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "client": "dist/client/main.js",
+    "_sources": {
+      "main": "src/main.ts",
+      "client": "src/client.ts"
+    }
+  }
+}
